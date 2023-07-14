@@ -1,0 +1,7 @@
+{
+  "env": {
+    "SMC_AGENT_PORT": "3000",
+    "EXIST_WHEN_READ_ERROR": "false",
+    "SMC_AGENT_DEBUG": "true"
+  }
+}
